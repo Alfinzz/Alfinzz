@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     The world of programming is full of challenges, but also endless opportunities. Keep learning, growing, and becoming a better person every day. 
     You have started an amazing journey, and every effort you make will bring greater results. Keep the spirit, Alfinzz, a bright future awaits you! 
     <a href="" style="color: #E22FE4; font-weight: bold; text-decoration: none; border-bottom: 2px solid #E22FE4;">
-        Rumhamade
+        Alfinzz
     </a> 
     that shares everything I learn about programming.
 </p>
