@@ -1,5 +1,5 @@
 <!--
-**Rumahmade2/Rumahmade2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Alfinzz/Alfinzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <p align="justify" style="font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; text-align: justify;">
     Never hesitate to move forward, because every small step in your journey is the foundation to achieve great things. 
     The world of programming is full of challenges, but also endless opportunities. Keep learning, growing, and becoming a better person every day. 
-    You have started an amazing journey, and every effort you make will bring greater results. Keep the spirit, Made Widhiyana, a bright future awaits you! 
-    <a href="https://www.instagram.com/mwidhiyana/" style="color: #E22FE4; font-weight: bold; text-decoration: none; border-bottom: 2px solid #E22FE4;">
+    You have started an amazing journey, and every effort you make will bring greater results. Keep the spirit, Alfinzz, a bright future awaits you! 
+    <a href="" style="color: #E22FE4; font-weight: bold; text-decoration: none; border-bottom: 2px solid #E22FE4;">
         Rumhamade
     </a> 
     that shares everything I learn about programming.
